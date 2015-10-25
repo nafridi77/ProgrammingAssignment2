@@ -20,7 +20,7 @@
 
 
 
-## THis returns solves for the inverse matrix by retirveing from the cache.
+## THis solves for the inverse matrix by retirveing from the cache. 
 
 
 cacheSolve <- function(x, ...) {
